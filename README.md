@@ -2,6 +2,8 @@
 
 Eine Sammlung von Browser-Spielen im it-stud.io Design — keine Installation nötig, einfach öffnen und spielen!
 
+🌐 **Live spielen:** https://itstud-io.github.io/games/
+
 ---
 
 ## Spiele
@@ -17,7 +19,7 @@ Der Arcade-Klassiker im modernen Dark-Mode-Design.
 - Tastatursteuerung (← → ↓ für Bewegung, ↑ für Rotation)
 - Responsive Design
 
-▶️ **[Spielen](tetris.html)**
+▶️ **[Jetzt spielen](https://itstud-io.github.io/games/tetris.html)**
 
 ---
 
@@ -33,7 +35,7 @@ Ein Action-Adventure durch mysteriöse Dungeon-Räume.
 - Atmosphärisches Dark-Fantasy-Design
 - Tastatursteuerung (WASD oder Pfeiltasten)
 
-▶️ **[Spielen](dungeon-explorer.html)**
+▶️ **[Jetzt spielen](https://itstud-io.github.io/games/dungeon-explorer.html)**
 
 ---
 
